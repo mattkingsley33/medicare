@@ -61,7 +61,6 @@ nav a {
     transition: transform 0.18s ease, background-color 0.3s ease, color 0.3s ease, text-shadow 0.3s ease;
     transform-origin: center;
 }
-
 nav a:hover,
 nav a:focus,
 nav a:active {
